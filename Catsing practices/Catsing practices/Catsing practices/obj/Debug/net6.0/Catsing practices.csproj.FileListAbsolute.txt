@@ -1,0 +1,15 @@
+C:\Users\User-BT\Desktop\yeni il ap\Catsing practices\Catsing practices\Catsing practices\bin\Debug\net6.0\Catsing practices.exe
+C:\Users\User-BT\Desktop\yeni il ap\Catsing practices\Catsing practices\Catsing practices\bin\Debug\net6.0\Catsing practices.deps.json
+C:\Users\User-BT\Desktop\yeni il ap\Catsing practices\Catsing practices\Catsing practices\bin\Debug\net6.0\Catsing practices.runtimeconfig.json
+C:\Users\User-BT\Desktop\yeni il ap\Catsing practices\Catsing practices\Catsing practices\bin\Debug\net6.0\Catsing practices.dll
+C:\Users\User-BT\Desktop\yeni il ap\Catsing practices\Catsing practices\Catsing practices\bin\Debug\net6.0\Catsing practices.pdb
+C:\Users\User-BT\Desktop\yeni il ap\Catsing practices\Catsing practices\Catsing practices\obj\Debug\net6.0\Catsing practices.csproj.AssemblyReference.cache
+C:\Users\User-BT\Desktop\yeni il ap\Catsing practices\Catsing practices\Catsing practices\obj\Debug\net6.0\Catsing practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-BT\Desktop\yeni il ap\Catsing practices\Catsing practices\Catsing practices\obj\Debug\net6.0\Catsing practices.AssemblyInfoInputs.cache
+C:\Users\User-BT\Desktop\yeni il ap\Catsing practices\Catsing practices\Catsing practices\obj\Debug\net6.0\Catsing practices.AssemblyInfo.cs
+C:\Users\User-BT\Desktop\yeni il ap\Catsing practices\Catsing practices\Catsing practices\obj\Debug\net6.0\Catsing practices.csproj.CoreCompileInputs.cache
+C:\Users\User-BT\Desktop\yeni il ap\Catsing practices\Catsing practices\Catsing practices\obj\Debug\net6.0\Catsing practices.dll
+C:\Users\User-BT\Desktop\yeni il ap\Catsing practices\Catsing practices\Catsing practices\obj\Debug\net6.0\refint\Catsing practices.dll
+C:\Users\User-BT\Desktop\yeni il ap\Catsing practices\Catsing practices\Catsing practices\obj\Debug\net6.0\Catsing practices.pdb
+C:\Users\User-BT\Desktop\yeni il ap\Catsing practices\Catsing practices\Catsing practices\obj\Debug\net6.0\Catsing practices.genruntimeconfig.cache
+C:\Users\User-BT\Desktop\yeni il ap\Catsing practices\Catsing practices\Catsing practices\obj\Debug\net6.0\ref\Catsing practices.dll
